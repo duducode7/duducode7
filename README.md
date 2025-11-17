@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Eduardo Oliveira
 
-🎓 Estudante de **Engenharia de Software**  
+🎓 Estudante de **Engenharia de Software** 
 🚀 Aprendendo algo novo todos os dias no mundo da tecnologia!  
 
 ---
@@ -14,13 +14,14 @@ Busco constantemente evoluir em **projetos práticos**, explorando o mundo do c�
 ### 🧠 Atualmente estudando
 - Desenvolvimento Web  
 - Banco de Dados e Lógica de Programação  
-- PHP, HTML, CSS, JavaScript e MySQL  
+- HTML, CSS e MySQL  
+- Em processo de evolução em **PHP** e **JavaScript**, construindo projetos para ganhar experiência prática
 
 ---
 
 ### ⚙️ Tecnologias que utilizo
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode&theme=dark" />
 </p>
 
 ---
