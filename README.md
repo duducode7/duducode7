@@ -21,14 +21,13 @@ Busco constantemente evoluir em **projetos práticos**, explorando o mundo do c�
 
 ### ⚙️ Tecnologias que utilizo
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,c++,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
 ### 📈 Minhas estatísticas no GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duducode7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duducode7&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
