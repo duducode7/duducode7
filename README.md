@@ -21,7 +21,7 @@ Busco constantemente evoluir em **projetos práticos**, explorando o mundo do c�
 
 ### ⚙️ Tecnologias que utilizo
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,c++,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,git,github,vscode&theme=dark" />
 </p>
 
 ---
